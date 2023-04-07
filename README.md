@@ -1,6 +1,8 @@
 # Propertunity
 
-Propurtunity is a web application built using Next.js and Tailwind CSS, designed to help investors invest their USDT in mortgage and for mortgagors to borrow money from peer to peer with PropCoin as the reward backed by our profits made from interest paid and houses sold from mortgagors who cannot repay their loans.
+Propurtunity is a web application built using Next.js and Tailwind CSS, designed to help investors invest their USDT in mortgage and for mortgagors to borrow money from peer to peer system using USDT as supported coin with PropCoin as the reward backed by our profits made from interest paid and houses sold from mortgagors who cannot repay their loans.
+
+With smart contract as our nature we are able to keep everything transparent and create a instant and secure platform for both Investors and Mortgagors to conveniently invest money or borrow money with little interest rates compared to banks.
 
 ## Features
 
