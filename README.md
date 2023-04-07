@@ -1,4 +1,4 @@
-# Propurtunity
+# Propertunity
 
 Propurtunity is a web application built using Next.js and Tailwind CSS, designed to help investors invest their USDT in properties and for mortgagors to sign up and access their dashboard.
 
