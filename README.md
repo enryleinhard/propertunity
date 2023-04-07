@@ -1,13 +1,13 @@
 # Propertunity
 
-Propurtunity is a web application built using Next.js and Tailwind CSS, designed to help investors invest their USDT in properties and for mortgagors to sign up and access their dashboard.
+Propurtunity is a web application built using Next.js and Tailwind CSS, designed to help investors invest their USDT in mortgage and for mortgagors to borrow money from peer to peer with PropCoin as the reward backed by our profits made from interest paid and houses sold from mortgagors who cannot repay their loans.
 
 ## Features
 
 Propertunity has the following features:
 
 - Home page
-- Page for investors to invest their USDT in properties
+- Page for investors to invest their USDT in lending money for mortgagors
 - Page for mortgagors to sign up and access their dashboard
 
 ## Screenshots
@@ -39,7 +39,7 @@ PropNFT is a non-fungible token (NFT) that represents tokenized real estate prop
 
 ## Pool Contract
 
-The pool contract allows investors to lend funds and mortgagors to borrow money. It is located in the Pool.sol file. Supported tokens are USDT and ETH.
+The pool contract allows investors to lend funds and mortgagors to borrow money. It is located in the Pool.sol file. Supported tokens are USDT.
 
 ### Features
 - Lend funds
