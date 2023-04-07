@@ -4,7 +4,7 @@ Propurtunity is a web application built using Next.js and Tailwind CSS, designed
 
 ## Features
 
-Propurtunity has the following features:
+Propertunity has the following features:
 
 - Home page
 - Page for investors to invest their USDT in properties
